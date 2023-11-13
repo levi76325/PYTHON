@@ -4,12 +4,13 @@
 # len - metodo que retorna a quantidade de itens de uma lista.
 # append - metodo que insere itens no final da lista.
 # del - remove item especifico da lista
-# remove - ele remove um objeto espefico da lista
+# remove - remove um objeto espefico da lista.
+# pop - remove o ultimo objeto da lista.
+# insert -  ele adiciona um objeto no inicio da lista.
 itens_compras = ['arroz', 'feijão', 'leite', 'ovos', 'tomate']
 for item in itens_compras:
     print(item)
 # uma lista é representada pelos []
-'''
 lista = []
 print(lista, type(lista))
 print(len(lista))
@@ -24,7 +25,7 @@ print(lista, type(lista))
 print(len(lista))
 lista.append('data')
 print(lista, type(lista))
-print(len(lista))'''
+print(len(lista))
 #       0       1       2       3       4
 #       -5      -4      -3      -2      -1
 lista = [ 'back', 'tarde', 21, True, 8.8 ]
