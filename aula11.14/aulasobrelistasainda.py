@@ -1,7 +1,7 @@
 # CRUD Create.Read.Update.Delete (criar, ler, atualizar e  deletar)
 # lista - mutavel, iteravel, suporta varios tipos de dados, possui indices, aceita metodos e fatiamentos.
 # OBS.: lista tem seu proprio CRUD
-# metodos: append, insert, del, remove, pop, len, extend.
+# metodos: append, insert, del, remove, pop, len, extend, copy
 # parametro: []
 # listas são um conjunto de elementos
 # OBS.: polimorfismos - é a pacacidade de alguma coisa ser utilizada de varias formas em varias situações.
