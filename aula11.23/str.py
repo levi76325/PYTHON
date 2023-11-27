@@ -4,7 +4,7 @@
 # replace - é utilizado para realizar alterações dentro da string.
 # capitalize - deixa a primeira letra das palavras maiusculas.
 # split - ele transforma sua string em uma lista.
-'''
+
 frase = " A banana é amarela e o abacate e verde. ".lower()
 
 letra = 'a'
@@ -17,8 +17,8 @@ else:
 saida = input('digite "s" para sair: ').lower()
 if saida == 'S':
     print(saida)
-'''
-'''
+
+
 
 nova_frase = frase.replace('banana', 'maracuja')
 nova_frase2 = frase.replace('abacate', 'manga')
@@ -28,9 +28,9 @@ print(nova_frase)
 print(nova_frase2)
 print(frase.capitalize())
 print(frase.split())
-'''
 
-'''
+
+
 leia = input("digite a string: ")
 print(leia)
 print(len(leia))
@@ -40,24 +40,24 @@ print(nome[0])
 print(nome[1])
 print(nome[2])
 print(nome[3])
-'''
 
-'''
+
+
 nome2 = input("digite uma string: ")
 nome3 = input("digite uma string: ")
 if nome2 == nome3:
     print("as duas strings são iguais")
 else:
     print("as duas strings são diferentes")
-'''
 
-'''
+
+
 nome = input('digite o nome: ')
 vogais = 'aeiou' 
 print(f'o nome { nome } tem {nome.count("a,e,i,o,u")} vogais')
 '''
 
-'''
+
 nome = input("Informe o nome de usuario: ")
 '''
 
