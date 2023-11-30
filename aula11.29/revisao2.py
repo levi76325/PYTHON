@@ -1,5 +1,5 @@
 # estruturas condicionais
-variavel = 20
+variavel = 21
 if variavel < 20:
     print("menor que 20!!")
 elif variavel == 20:
